@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include <stdio.h> //chatgpt에게 코딩을 요청한 질문.
 #include <stdlib.h>
 #include <string.h>
 
