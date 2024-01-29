@@ -22,3 +22,7 @@ for i in range(t):
             queue.append(front) # 제일 뒤로 밀려나게 됨
             if m < 0 :  # 제일 앞에서 뽑히면
                 m = len(queue) - 1 # 제일 뒤로 이동
+
+                
+#런타임 에러 확인용
+#https://hongcoding.tistory.com/42 님의 코드입니다.
